@@ -11,6 +11,6 @@ We are planing to use the top technologies as well as the best practices in rega
 We will use Archimate to describe Enterprise Architectures and spics extended integration abilities powered by micro services best practices among others. <br/>
 <ul>
 <li>For a brief description of Archimate, see <a href='https://github.com/alainlompo/spics/blob/master/doc/note_on_archimate.md'>here</a></li>
-
+<li>For a deeper dive into Archimate look into The Open Group presentation <a href='http://www.opengroup.org/subjectareas/enterprise/archimate'>here</a></li> 
 </ul>
 </p>
