@@ -32,6 +32,5 @@ Archimate is a modelling language and technique that is used to describe enterpr
 	
 </p>
 <br/>
-<br/>
 It is possible to use Archimate along with other modelling languages. For example in comparison with UML, Archimate was purposed to model enterprise architectures (all of the systems in the organisation) while UML is well suited with documenting the architecture of a single system. Thus at the enterprise level we may use Archimate to document the architecture and when we focus on a single system we may provide it's complete architecture documentation using UML feature (Which by the way provide some thirteen or more diagrams offering a great flexibility to describe various systems...one at a time)
 </p>
