@@ -1,6 +1,5 @@
 <h2>Introducing Archimate</h2>
 <br/>
-<br/>
 <h3>What is it?</h3>
 <p>
 Archimate is a modelling language and technique that is used to describe enterprise architectures. Briefly:
