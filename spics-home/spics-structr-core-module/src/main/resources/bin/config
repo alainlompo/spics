@@ -1,0 +1,11 @@
+#!/bin/bash
+#
+# configuration options for ${project.build.finalName}
+#
+
+RUN_OPTS="-cp lib/*:${project.build.finalName}.jar"
+JAVA_OPTS="-Xms1g -Xmx1g -XX:+UseNUMA"
+MAIN_CLASS="org.hypernovae.entapps.Server"
+DISPLAY_NAME="spics-structr-core-module-1.0-SNAPSHOT"
+LOG_FILE="logs/server.log"
+PID_FILE="server.pid"
