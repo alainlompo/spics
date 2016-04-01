@@ -13,4 +13,6 @@ We will use Archimate to describe Enterprise Architectures and spics extended in
 <li>For a brief description of Archimate, see <a href='https://github.com/alainlompo/spics/blob/master/doc/note_on_archimate.md'>here</a></li>
 <li>For a deeper dive into Archimate look into The Open Group presentation <a href='http://www.opengroup.org/subjectareas/enterprise/archimate'>here</a></li> 
 </ul>
-</p>
+</p>   
+   
+<a href='https://github.com/alainlompo/spics/wiki'>The wiki</a> contains important informations such as the list of the major user stories as well as technical stuff (configuration files, environment variables and properties, ...)   
